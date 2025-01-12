@@ -1,0 +1,15 @@
+- name: Introduction
+  image: assets/images/project_introduction.jpeg
+  link: /introduction
+  description:
+- name: Wildfire Data
+  image: assets/images/project_data.jpeg
+  link: /wildfire-data
+  description: 
+- name: Wildfire Spread Modeling
+  link: /wildfire-spread
+  image: assets/images/project_map.jpeg
+  description: 
+- name: Attention Swin U-net with Focal Modulation (ASUFM)
+  link: /asufm
+  image: assets/images/project_asufm.jpeg
